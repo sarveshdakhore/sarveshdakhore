@@ -3,7 +3,7 @@
 # 🧑🏻‍💻 Ongoing Projects
 ## FFCSOnTheGo:
 Updating the old website with new features to make TimeTable smoother and easier.
-### [Track Repository]((https://github.com/sarveshdakhore/FFCSonTheGo))
+### [Track Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
 
 
 
