@@ -28,7 +28,7 @@ const RedirectComponent = ({ redirectUrl, title, description, imageUrl }: Redire
                 <meta property="og:description" content={description} />
                 <meta property="og:image" content={imageUrl} />
             </Head>
-            <div>Loading...</div>
+            <div>Redirecting...</div>
         </>
     )
 }
@@ -46,7 +46,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     }
 
     // Fetch the link preview data from the LinkPreview API
-    const response = await fetch(`https://api.linkpreview.net/?key={your_api_key}&q=${encodeURIComponent(redirectUrl)}`);
+    const response = await fetch(`https://api.linkpreview.net/?key={7e8392f4bef186021e9463f84ad55f00}&q=${encodeURIComponent(redirectUrl)}`);
     const previewData = await response.json();
 
     return {
