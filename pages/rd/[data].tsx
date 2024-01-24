@@ -4,6 +4,9 @@ import { useRouter } from 'next/router'
 import { useEffect } from 'react'
 import data from '../../public/data/redirect/redirect.json'; // import JSON file
 import fetch from 'node-fetch';
+import styles from '../rd/redirect.module.css';
+import '../../src/app/globals.css'
+
 
 type RedirectComponentProps = {
     redirectUrl: string;
@@ -28,7 +31,7 @@ const RedirectComponent = ({ redirectUrl, title, description, imageUrl }: Redire
                 <meta property="og:description" content={description} />
                 <meta property="og:image" content={imageUrl} />
             </Head>
-            <div>Redirecting...</div>
+            <div className={styles.redirectContainer}>Redirecting...</div>
         </>
     )
 }
