@@ -12,7 +12,7 @@ const RedirectComponent = () => {
         let redirectUrl = (data as {[key: string]: string})[redirectData as string]; // use data from JSON file
 
         if (!redirectUrl) {
-            redirectUrl = 'https://www.default.com'
+            redirectUrl = 'https://www.sarveshdakhore.in'
         } else {
             if (!redirectUrl.startsWith('http://') && !redirectUrl.startsWith('https://')) {
                 redirectUrl = 'https://' + redirectUrl; // add https:// to the URL if it doesn't already start with http:// or https://
