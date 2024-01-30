@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 🧑🏻‍💻 Ongoing Projects
-## [Matrix Club Site:](https://matrix.sarveshdakhore.in)
+## [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
 Work in progress
 ### [Track Repository](https://github.com/sarveshdakhore/matrix)
 
