@@ -7,7 +7,7 @@ Work in progress
 
 
 # 🥳 Completed Project
-## 1) [FFCSOnTheGo](https://ffcs.sarveshdakhore.in)        
+## 1) [FFCSOnTheGo](sarveshdakhore.in/rd/ffcs)        
 [Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
 
 
@@ -15,7 +15,7 @@ Work in progress
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 3) [Chits](https://www.chits.site)        
+## 3) [Chits](sarveshdakhore.in/rd/myn_chits)        
 [Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
 
 
