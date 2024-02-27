@@ -15,7 +15,7 @@ Work in progress
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 3) [Chits](sarveshdakhore.in/rd/myn_chits)        
+## 3) [Chits](sarveshdakhore.in/rd/mun_chits)        
 [Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
 
 
