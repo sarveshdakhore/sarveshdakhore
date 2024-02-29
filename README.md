@@ -2,12 +2,10 @@
 
 # 🧑🏻‍💻 Ongoing Projects
 ## [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
-Work in progress
-### [Track Repository](https://github.com/sarveshdakhore/matrix)
 
 
 # 🥳 Completed Project
-## 1) [FFCSOnTheGo](sarveshdakhore.in/rd/ffcs)        
+## 1) [FFCSOnTheGo](https://sarveshdakhore.in/rd/ffcs)        
 [Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
 
 
@@ -15,7 +13,7 @@ Work in progress
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 3) [Chits](sarveshdakhore.in/rd/mun_chits)        
+## 3) [Chits](https://sarveshdakhore.in/rd/mun_chits)        
 [Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
 
 
