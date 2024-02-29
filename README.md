@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 🧑🏻‍💻 Ongoing Projects
-## [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
+Building My own Product - something great to come
 
 
 # 🥳 Completed Project
@@ -9,11 +9,15 @@
 [Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
 
 
-## 2) [Certificate-Builder](https://dpscertificate.pythonanywhere.com)        
+## 2) [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
+[Repository](https://github.com/sarveshdakhore/matrix)
+
+
+## 3) [Certificate-Builder](https://dpscertificate.pythonanywhere.com)        
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 3) [Chits](https://sarveshdakhore.in/rd/mun_chits)        
+## 4) [Chits](https://sarveshdakhore.in/rd/mun_chits)        
 [Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
 
 
