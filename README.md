@@ -17,8 +17,7 @@ Building My own Product - something great to come
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 4) [Chits](https://sarveshdakhore.in/rd/mun_chits)        
-[Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
+
 
 
 
