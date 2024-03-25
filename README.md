@@ -4,16 +4,13 @@
 Building My own Product - something great to come
 
 
-# 🥳 Completed Project
-## 1) [FFCSOnTheGo](https://sarveshdakhore.in/rd/ffcs)        
-[Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
+# 🥳 Completed Projects
 
-
-## 2) [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
+## 1) [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
 [Repository](https://github.com/sarveshdakhore/matrix)
 
 
-## 3) [Certificate-Builder](https://dpscertificate.pythonanywhere.com)        
+## 2) [Certificate-Builder](https://dpscertificate.pythonanywhere.com)        
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
