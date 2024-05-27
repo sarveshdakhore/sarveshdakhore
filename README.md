@@ -6,7 +6,7 @@ Building My own Product - something great to come
 
 # 🥳 Completed Projects
 ## 1) [FFCSOnTheGo](https://sarveshdakhore.in/rd/ffcs)        
- [Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
+ [Repository](https://github.com/sarveshdakhore/FFCS_Planner)
 
  
 ## 2) [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
