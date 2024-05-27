@@ -5,7 +5,7 @@ Building My own Product - something great to come
 
 
 # 🥳 Completed Projects
-## 1) [FFCSOnTheGo](https://sarveshdakhore.in/rd/ffcs)        
+## 1) [FFCS Planner](https://sarveshdakhore.in/rd/ffcs)        
  [Repository](https://github.com/sarveshdakhore/FFCS_Planner)
 
  
