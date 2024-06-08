@@ -19,8 +19,8 @@ export default function RootLayout({
     <>
       <Head>
         <meta name="google-adsense-account" content="ca-pub-7726311284531292" />
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+        <title>{metadata.title || 'Default Title'}</title>
+        <meta name="description" content={metadata.description || 'Default Description'} />
       </Head>
       <div className={inter.className}>{children}</div>
     </>
