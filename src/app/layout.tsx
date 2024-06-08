@@ -16,11 +16,13 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <>
       <Head>
         <meta name="google-adsense-account" content="ca-pub-7726311284531292" />
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
       </Head>
-      <body className={inter.className}>{children}</body>
-    </html>
+      <div className={inter.className}>{children}</div>
+    </>
   )
 }
