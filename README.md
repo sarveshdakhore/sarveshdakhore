@@ -4,11 +4,11 @@
 Building My own Product - something great to come
 
 
-# 🥳 Completed Project
-## 1) [FFCSOnTheGo](https://sarveshdakhore.in/rd/ffcs)        
-[Repository](https://github.com/sarveshdakhore/FFCSonTheGo)
+# 🥳 Completed Projects
+## 1) [FFCS Planner](https://sarveshdakhore.in/rd/ffcs)        
+ [Repository](https://github.com/sarveshdakhore/FFCS_Planner)
 
-
+ 
 ## 2) [Matrix Club Site:](https://sarveshdakhore.in/rd/matrix)
 [Repository](https://github.com/sarveshdakhore/matrix)
 
@@ -17,8 +17,7 @@ Building My own Product - something great to come
 [Repository](https://github.com/sarveshdakhore/Certificate-Builder)
 
 
-## 4) [Chits](https://sarveshdakhore.in/rd/mun_chits)        
-[Repository](https://github.com/sarveshdakhore/MUN-Chits-Flask)
+
 
 
 
