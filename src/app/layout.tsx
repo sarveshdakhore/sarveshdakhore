@@ -16,12 +16,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <>
-      <Head>
-        <meta name="google-adsense-account" content="ca-pub-7726311284531292" />
-        <meta name="description" content={metadata.description || 'Default Description'} />
-      </Head>
-      <div className={inter.className}>{children}</div>
-    </>
+    <html lang="en">
+      <body className={inter.className}>{children}</body>
+    </html>
   )
 }
